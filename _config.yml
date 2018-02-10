@@ -1,5 +1,5 @@
 # Site settings
-title: ZYR
+title: ZYR is really really really handsome
 SEOTitle: 教授无敌帅
 header-img: img/0399a990d815b14b258321a272584f73.jpg
 email: wqw16@mails.tsinghua.edu.cn
@@ -7,7 +7,7 @@ description: "Hello World"
 keyword: "ZYR is really really really handsome"
 url: "http://barcelona16.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "" #"https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,7 +19,7 @@ sidebar-avatar: img/0399a990d815b14b258321a272584f73.jpg     # use absolute URL,
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     Deavan Wang
+zhihu_username:     wang-qi-wang-38
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
