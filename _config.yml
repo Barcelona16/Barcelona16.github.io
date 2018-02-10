@@ -1,5 +1,5 @@
 # Site settings
-title: ZYR is really really really handsome
+title: ZYR
 SEOTitle: 教授无敌帅
 header-img: img/0399a990d815b14b258321a272584f73.jpg
 email: wqw16@mails.tsinghua.edu.cn
@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar:img/0399a990d815b14b258321a272584f73.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
