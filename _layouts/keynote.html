@@ -97,11 +97,11 @@ layout: default
                 <div id="gitalk-container"></div>
                     <script type="text/javascript">
                     var gitalk = new Gitalk({
-                    clientID: '{{9d2b17f5cda9c13da0d9}}',
-                    clientSecret: '{{5806799519bc031c5796c5583340706d831f5336}}',
-                    repo: '{{Barcelona16.github.io}}',
-                    owner: '{{Barcelona16}}',
-                    admin: ['{{Barcelona16}}'],
+                    clientID: '{{site.gitalk.clientID}}',
+                     clientSecret: '{{site.gitalk.clientSecret}}',
+                     repo: '{{site.gitalk.repo}}',
+                     owner: '{{site.gitalk.owner}}',
+                     admin: ['{{site.gitalk.admin}}'],
                     id: window.location.pathname,
                     });
                     gitalk.render('gitalk-container');
