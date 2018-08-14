@@ -11,28 +11,25 @@ tags:
 ---
 
 
-## Hello Java
+# Hello Java
 
-第一次使用Java还有很多生疏的地方 仅作为记录。	
-题目比较简单所以代码也比较`生猛`~ 
-顺便练习一下m语法以及git
-git add 2018-08-14-HelloJava.md
-
-git commit -m "想说啥就说点啥吧"
-
+第一次使用Java还有很多生疏的地方 仅作为记录。   </br>	
+题目比较简单所以代码也比较`生猛`~  </br>
+顺便练习一下m语法以及git </br>
+git add 2018-08-14-HelloJava.md</br>
+git commit -m "想说啥就说点啥吧"</br>
 git push origin master
 
 
-## 题目
+# 题目
 
-- 大整数加法
+- #一 ![](https://i.imgur.com/gKz4kja.png)
 
-- 挑选第N小的质数
+- #二 ![](https://i.imgur.com/ySach6R.png)
 
-- 矩阵相乘
+- #三 ![](https://i.imgur.com/ggSNah9.png)
 
-- 合法标识符
-
+- #四 ![](https://i.imgur.com/67LnWHl.png)
 
 ## 大整数加法
 
