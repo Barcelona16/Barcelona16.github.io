@@ -4,7 +4,7 @@ title:      Hello Java!
 subtitle:   Java小学期第一次作业记录
 date:       2018-07-24
 author:     WQW  
-header-img:  img/zyr.jpg
+header-img:  img/HelloJava.jpg
 catalog: true
 tags:
     - Java
