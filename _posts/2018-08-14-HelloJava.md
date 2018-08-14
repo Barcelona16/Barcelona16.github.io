@@ -13,10 +13,16 @@ tags:
 
 ## Hello Java
 
-	'第一次'使用Java还有很多生疏的地方 仅作为记录。<\br>
-题目比较简单所以代码也比较'生猛'~
+	第一次使用Java还有很多生疏的地方 仅作为记录。
+	
+题目比较简单所以代码也比较`生猛`~ 
+
+顺便练习一下m语法以及git
+
 git add 2018-08-14-HelloJava.md
+
 git commit -m "想说啥就说点啥吧"
+
 git push origin master
 
 
@@ -30,10 +36,12 @@ git push origin master
 
 ## 大整数加法
 
-	高精度加法，还记得数据结构第一次作业的第一题就是高精度乘法，所以这题没什么难度,用来熟悉JAVA还好。
+	高精度加法，还记得数据结构第一次作业的第一题就是高精度乘法，
+	
+	所以这题没什么难度,用来熟悉JAVA还好。
 	
 	
-'''objc
+'''
 import java.util.Scanner;
 public class Main 
 {
