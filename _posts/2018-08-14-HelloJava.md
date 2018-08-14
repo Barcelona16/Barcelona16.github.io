@@ -14,11 +14,17 @@ tags:
 # Hello Java
 
 第一次使用Java还有很多生疏的地方 仅作为记录。   </br>	
+
 题目比较简单所以代码也比较`生猛`~  </br>
+
 顺便练习一下m语法以及git </br>
+
 git add 2018-08-14-HelloJava.md</br>
+
 git commit -m "想说啥就说点啥吧"</br>
+
 git push origin master
+
 
 
 # 题目
@@ -38,7 +44,7 @@ git push origin master
 所以这题没什么难度,用来熟悉JAVA还好。
 	
 	
-```ojbc
+```java
 import java.util.Scanner;
 public class Main 
 {
@@ -175,7 +181,7 @@ public class helloworld1 {
 # T3矩阵相乘
 
 我觉得这道是最简单的一个，不说了。
-```
+```java
 import java.util.Scanner;
 public class Main
 {
@@ -238,7 +244,7 @@ public class Main
 # T4合法标识符
 这道题首先要了解java的合法标识符是什么。 <br>
 对开头符号的要求以及中间符号的要求，最后再检查一下是否和保留字冲突就ok。对于关键字……emmmmmm就直接`**暴力**`吧 代码就很暴力
-```
+```java
 import java.util.Arrays;
 import java.util.Scanner;
 public class Main
